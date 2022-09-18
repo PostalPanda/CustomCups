@@ -1,3 +1,7 @@
+##The project url
+Platrform: https://degencups.io/
+Admin: https://admin.degencups.io/
+
 ## File structure
 
 Application file structure and explanations:
